@@ -3,10 +3,14 @@ main {
     max-width: 840px;
 }
 
+nav {
+    display: flex;
+    background-color: aqua;
+}
 nav a {
-    color: white;
-    padding: 10px;
-    display: block;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    display: flex;
 }
 
 h1 {
@@ -23,7 +27,7 @@ main img {
 
 aside {
     width: 20em;
-    margin: 20em;
+    margin: 1em;
     border: 1px solid rgba(0, 0, 0, 0.2); /* 1️⃣ */
     padding: 1em;
     background-color: #eee;
