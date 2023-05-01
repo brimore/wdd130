@@ -1,18 +1,18 @@
 @import url("https://fonts.google.com/specimen/Ysabeau");
 
 :root {
-    --primary-color: #XXXXXX;
-    --secondary-color: #XXXXXX;
-    --accent1-color: #XXXXXX;
+    --primary-color: #f90505;
+    --secondary-color: #7D84B2;
+    --accent1-color: #8FA6CB;
     --accent2-color: #000000;
 
-    --heading-font: "______", serif;
-    --paragraph-font: "______", serif;
+    --heading-font: "Ysabeau", serif;
+    --paragraph-font: "Arial Black", serif;
 
-    --nav-background-color: #XXXXXX;
-    --nav-link-color: #XXXXXX;
-    --nav-hover-link-color: #XXXXXX;
-    --nav-hover-background-color: #XXXXXX;
+    --nav-background-color: #000000;
+    --nav-link-color: #D5F9DE;
+    --nav-hover-link-color: #2558AA;
+    --nav-hover-background-color: #07F643;
 }
 
 body {
