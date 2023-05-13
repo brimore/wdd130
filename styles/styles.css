@@ -47,7 +47,7 @@ aside {
 }
 
 aside img {
-    width: 300px;
+    width: 250px;
     height: auto;
 }
 
@@ -79,7 +79,7 @@ footer {
 
 aside h2 {
     position: absolute;
-    top: 30px;
+    top: 20px;
     left: 130px;
 }
 
