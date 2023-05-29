@@ -240,7 +240,7 @@ section .employee-profiles .employee img {
 }
 
 form label {
-  font-size: 30px; 
+  font-size: 34px; 
 }
 
 form input[type="text"],
@@ -251,7 +251,7 @@ form textarea {
 }
 
 form select {
-  height: 40px; 
+  height: 30px; 
   font-size: 16px; 
 }
 
@@ -292,4 +292,7 @@ footer nav .sociallinks a img {
   height: auto;
 
 }
-  
+
+iframe {
+  border: none;
+}
